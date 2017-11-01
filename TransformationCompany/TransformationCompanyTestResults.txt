@@ -1,0 +1,51 @@
+Enter number of transformers:
+3
+Enter transformer in following format:
+Name (String), type (A/D), strength (int), intelligence (int), speed (int), endurance (int), rank (int), courage (int), firepower (int), skill (int)
+Soundwave, D, 8, 9, 2, 6, 7, 5, 6, 10
+Bluestreak, A, 6, 6, 7, 9, 5, 2, 9, 7
+Hubcap, A, 4, 4, 4, 4, 4, 4, 4, 4
+1 battle
+Winning team (Decepticons): [Soundwave]
+Survivors from the losing team (Autobots): [Hubcap]
+
+==========================================
+
+Enter number of transformers:
+3
+Enter transformer in following format:
+Name (String), type (A/D), strength (int), intelligence (int), speed (int), endurance (int), rank (int), courage (int), firepower (int), skill (int)
+Optimas Prime, A, 3, 4, 5, 6, 7, 8, 9, 10
+Predaking, D, 2, 3, 4, 5, 6, 7, 8, 9
+Hubcap, A, 1, 2, 3, 4, 5, 6, 7, 8
+1 battle
+Winning team: None
+
+==========================================
+
+
+Enter number of transformers:
+3
+Enter transformer in following format:
+Name (String), type (A/D), strength (int), intelligence (int), speed (int), endurance (int), rank (int), courage (int), firepower (int), skill (int)
+Optimas Prime, A, 1, 2, 3, 4, 5, 6, 7, 8
+Soundwave, D, 2, 3, 4, 5, 6, 7, 8, 9
+Hubcap, A, 1, 2, 3, 4, 5, 6, 7, 8
+1 battle
+Winning team (Autobots): [Optimas Prime]
+Survivors from the winning team (Autobots): [Hubcap]
+
+==========================================
+
+Enter number of transformers:
+3
+Enter transformer in following format:
+Name (String), type (A/D), strength (int), intelligence (int), speed (int), endurance (int), rank (int), courage (int), firepower (int), skill (int)
+Predaking, D, 2, 3, 4, 5, 6, 7, 8, 9
+Hubcap, A, 3, 4, 5, 6, 7, 8, 9, 10
+BlueStreak, A, 1, 2, 3, 4, 5, 6, 7, 8
+1 battle
+Winning team (Decepticons): [Predaking]
+Survivors from the losing team (Autobots): [BlueStreak]
+
+==========================================
